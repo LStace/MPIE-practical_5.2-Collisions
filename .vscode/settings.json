@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "mpie-p52-collisions.sln"
+    "dotnet.defaultSolution": "MPIE-practical_5.2-Collisions.sln"
 }
